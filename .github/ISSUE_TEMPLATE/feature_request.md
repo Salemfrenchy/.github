@@ -17,6 +17,10 @@ As a **[marketplace administrator/owner, store/seller, shopper/visitor/end-user,
 
 ---
 
+### Acceptance criteria
+
+- [ ] Should this change be set behind a flipper flag? if yes, check the following link https://app.tettra.co/teams/marketplacer/pages/adding-a-new-flipper-flag
+
 ### Screenshots
 
 ### Proposed implementation
@@ -26,12 +30,10 @@ API spec, @mention people for feedback/discussion.
 Does this change impact:
 - [ ] M Stores
 - [ ] Multi Stores
-- [ ] Mobile API
 - [ ] v2 API
 - [ ] GraphQL API
-- [ ] Postman Collection
 - [ ] Spreadsheet uploader
-- [ ] 3Sixty1 Reports
+
 
 ### Security requirements
 
